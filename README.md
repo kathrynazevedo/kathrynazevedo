@@ -44,10 +44,10 @@ Apaixonada por **tecnologia, dados e inteligência artificial**, estou trilhando
 ## 💌 Vamos nos conectar?  
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEULINK" target="_blank">
+  <a href="https://linkedin.com/in/kathrynazevedo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:kathryn.azevedo8@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
 </p>
