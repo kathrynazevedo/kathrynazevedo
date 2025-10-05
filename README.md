@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Bem-vindos%20ao%20meu%20GitHub!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-# 🌸 Olá, eu sou a **Kathryn Azevedo** <img src="https://i.pinimg.com/736x/a8/77/30/a87730862a7b9a17b098904d5ca7d65f.jpg" width="40" style="border-radius:50%"/>
+# Olá, eu sou a **Kathryn Azevedo** <img src="https://i.pinimg.com/736x/a8/77/30/a87730862a7b9a17b098904d5ca7d65f.jpg" width="40" style="border-radius:50%"/>
 
 Sejam bem-vindos ao meu espaço no GitHub!  
 Apaixonada por **tecnologia, dados e inteligência artificial**, estou trilhando minha jornada em **Ciência da Computação**, sempre buscando unir **criatividade, propósito e impacto positivo**.  
@@ -62,6 +58,3 @@ Apaixonada por **tecnologia, dados e inteligência artificial**, estou trilhando
    <img src="https://i.pinimg.com/originals/1c/ef/ba/1cefbaa0d7894e8bb08f9ecc94752d96.gif" width="80"/>  
 </p>
  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
-</p>
