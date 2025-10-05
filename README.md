@@ -1,4 +1,4 @@
-# Olá, eu sou a **Kathryn Azevedo** <img src="https://i.pinimg.com/736x/a8/77/30/a87730862a7b9a17b098904d5ca7d65f.jpg" width="40" style="border-radius:50%"/>
+# Olá, eu sou a Kathryn Azevedo <img src="https://pin.it/24zui6ASn.jpg" width="40" style="border-radius:50%"/>
 
 Sejam bem-vindos ao meu espaço no GitHub!  
 Apaixonada por **tecnologia, dados e inteligência artificial**, estou trilhando minha jornada em **Ciência da Computação**, sempre buscando unir **criatividade, propósito e impacto positivo**.  
