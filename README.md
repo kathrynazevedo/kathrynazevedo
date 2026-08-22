@@ -24,8 +24,12 @@ kathryn.apresentar()
 ## 📚 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kathrynazevedo&show_icons=true&theme=radical&title_color=ffb6c1&icon_color=ffb6c1&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynazevedo&layout=compact&theme=radical&title_color=ffb6c1&hide_border=true" alt="Linguagens Mais Usadas" />
+  <a href="https://github.com/kathrynazevedo">
+    <img src="https://github-readme-stats.vercel.app/api?username=kathrynazevedo&show_icons=true&theme=radical&title_color=ffb6c1&icon_color=ffb6c1&hide_border=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/kathrynazevedo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynazevedo&layout=compact&theme=radical&title_color=ffb6c1&hide_border=true" alt="Linguagens Mais Usadas" />
+  </a>
 </p>
 
 ---
