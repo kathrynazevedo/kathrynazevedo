@@ -1,23 +1,28 @@
 ## Olá, seja bem vindo! 👋
 
+<p align="center">
+  <h1>Olá, seja bem vindo! 👋</h1>
+</p>
+
+```python
 class Kathryn:
     def __init__(self):
         self.cargo = "Estudante de Ciência da Computação e Estagiando em Redes"
-        self.foco = Inteligência Artificial", "Sitemas Operacionais", "Visão Computacional"
+        self.foco = ["Inteligência Artificial", "Sistemas Operacionais", "Visão Computacional"]
         self.projeto_atual = "TCC: Detecção automatizada com YOLOv8n em Raspberry Pi 4"
-        self.hobbies = "Livros", "Vídeos para o Yt", "Tomar um solzinho enquanto vivo a crise dos 20"
+        self.hobbies = ["Livros", "Vídeos para o Yt", "Tomar um solzinho enquanto vivo a crise dos 20"]
 
     def apresentar(self):
         print(f"Olá! Sou uma entusiasta de tecnologia, atualmente {self.cargo}.")
         print(f"Minha jornada é focada em transmitir todo meu conhecimento adquirido.")
         print(f"No momento, estou me aprofundando em: {', '.join(self.foco)}.")
         print(f"Meu principal projeto prático hoje é meu {self.projeto_atual}.")
-        print(f"Quando não estou programando ou  realizando meu TCC, meus hobbies são: {', '.join(self.hobbies)}.")
+        print(f"Quando não estou programando ou realizando meu TCC, meus hobbies são: {', '.join(self.hobbies)}.")
 
 kathryn = Kathryn()
 kathryn.apresentar()
 
----
+```
 
 ## 💻 Tecnologias & Ferramentas
 
