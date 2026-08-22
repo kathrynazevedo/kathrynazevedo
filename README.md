@@ -1,21 +1,21 @@
-# Olá, eu sou a Kathryn Azevedo! 👋
+## Olá, seja bem vindo! 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFB6C1&center=false&vCenter=false&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonada+por+Dados+e+IA;Desenvolvedora+em+Constru%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+class Kathryn:
+    def __init__(self):
+        self.cargo = "Estudante de Ciência da Computação e Estagiando em Redes"
+        self.foco = Inteligência Artificial", "Sitemas Operacionais", "Visão Computacional"
+        self.projeto_atual = "TCC: Detecção automatizada com YOLOv8n em Raspberry Pi 4"
+        self.hobbies = "Livros", "Vídeos para o Yt", "Tomar um solzinho enquanto vivo a crise dos 20"
 
-Sejam bem-vindos ao meu espaço no GitHub! 
-Apaixonada por **tecnologia, dados e inteligência artificial**, estou trilhando minha jornada em **Ciência da Computação**, sempre buscando unir criatividade, propósito e impacto positivo.
+    def apresentar(self):
+        print(f"Olá! Sou uma entusiasta de tecnologia, atualmente {self.cargo}.")
+        print(f"Minha jornada é focada em transmitir todo meu conhecimento adquirido.")
+        print(f"No momento, estou me aprofundando em: {', '.join(self.foco)}.")
+        print(f"Meu principal projeto prático hoje é meu {self.projeto_atual}.")
+        print(f"Quando não estou programando ou  realizando meu TCC, meus hobbies são: {', '.join(self.hobbies)}.")
 
-- 🌱 **Atualmente aprendendo:** Machine Learning com Python, 
-- 🎯 **Meu foco:** Transformar dados em soluções reais e aprofundar meus conhecimentos em desenvolvimento de software.
-- 💡 **Objetivos futuros:** Ser professora universitária
-
----
-
-## ✨ Áreas que me inspiram
-
-- 🤖 **Inteligência Artificial** — modelos e algoritmos que aprendem.  
-- 📊 **Análise de Dados & Power BI** — criar narrativas visuais para apoiar decisões.  
-- 💻 **Desenvolvimento & Lógica de Programação** — do algoritmo à inovação.  
+kathryn = Kathryn()
+kathryn.apresentar()
 
 ---
 
