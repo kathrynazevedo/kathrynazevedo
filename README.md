@@ -1,5 +1,3 @@
-## Olá, seja bem vindo! 👋
-
 <p align="center">
   <h1>Olá, seja bem vindo! 👋</h1>
 </p>
