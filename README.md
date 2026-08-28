@@ -21,11 +21,6 @@ kathryn = Kathryn()
 kathryn.apresentar()
 
 ```
-## 📚 Minhas Estatísticas
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kathrynazevedo&show_icons=true&theme=radical&title_color=ffb6c1&icon_color=ffb6c1&hide_border=true)](https://github.com/kathrynazevedo)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynazevedo&layout=compact&theme=radical&title_color=ffb6c1&hide_border=true)](https://github.com/kathrynazevedo)
-[<img src="https://streak-stats.demolab.com?user=kathrynazevedo&theme=radical&hide_border=true" alt="kathrynazevedo's GitHub Stats" />]
 
 ---
 
